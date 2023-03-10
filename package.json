@@ -1,0 +1,23 @@
+{
+  "name": "clone_ebay_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VanshikaAgarwal2508/clone_ebay_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VanshikaAgarwal2508/clone_ebay_api/issues"
+  },
+  "homepage": "https://github.com/VanshikaAgarwal2508/clone_ebay_api#readme",
+  "dependencies": {
+    "json-serve": "^0.1.0"
+  }
+}
